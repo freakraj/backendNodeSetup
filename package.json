@@ -1,0 +1,16 @@
+{
+  "name": "nodesetup",
+  "version": "1.0.0",
+  "description": "a backend in at raj with code",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "raj gautam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
